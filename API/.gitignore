@@ -477,4 +477,3 @@ $RECYCLE.BIN/
 *.lnk
 
 API/bin/Debug/net7.0/appsettings.json
-API/bin/Debug/net7.0/appsettings.Development.json
