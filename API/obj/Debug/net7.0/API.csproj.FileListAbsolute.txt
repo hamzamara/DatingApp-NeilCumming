@@ -1,5 +1,4 @@
 C:\Users\lenovo\Documents\My-GitHub\DatingApp\DatingApp-NeilCumming\API\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\lenovo\Documents\My-GitHub\DatingApp\DatingApp-NeilCumming\API\bin\Debug\net7.0\appsettings.json
 C:\Users\lenovo\Documents\My-GitHub\DatingApp\DatingApp-NeilCumming\API\bin\Debug\net7.0\API.exe
 C:\Users\lenovo\Documents\My-GitHub\DatingApp\DatingApp-NeilCumming\API\bin\Debug\net7.0\API.deps.json
 C:\Users\lenovo\Documents\My-GitHub\DatingApp\DatingApp-NeilCumming\API\bin\Debug\net7.0\API.runtimeconfig.json
